@@ -1,4 +1,4 @@
-# Twelve Days
+# Twelve Days Coding Exercise
 
 In this exercise, you will create a ruby class and method that outputs the lyrics to the traditional English Christmas carol ["The Twelve Days of Christmas"](https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)) (complete lyrics below).
 
