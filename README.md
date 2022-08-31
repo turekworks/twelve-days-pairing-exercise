@@ -51,7 +51,7 @@ You should see the test output in the console. It should look something like thi
 
 Good luck!
 
-## Source
+## Sources
 
-Wikipedia [http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)](http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song))
-Exercism https://exercism.org/tracks/ruby/exercises/twelve-days
+- Wikipedia [http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)](http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song))
+- Exercism https://exercism.org/tracks/ruby/exercises/twelve-days
