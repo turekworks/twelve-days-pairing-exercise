@@ -45,10 +45,13 @@ Run the tests from the exercise directory using the following command:
 
     ruby twelve_days_test.rb
 
-You should see the test output in the console.
+You should see the test output in the console. It should look something like this before you begin to write your solution in `twelve_days.rb`:
+
+<img width="3008" alt="Screen Shot 2022-08-31 at 12 19 02 AM" src="https://user-images.githubusercontent.com/7255934/187599918-84204363-6a73-4d77-8e7e-2ba23da4ae21.png">
 
 Good luck!
 
 ## Source
 
 Wikipedia [http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)](http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song))
+Exercism https://exercism.org/tracks/ruby/exercises/twelve-days
